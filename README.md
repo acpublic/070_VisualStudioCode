@@ -6,3 +6,6 @@ https://code.visualstudio.com/download
 # 拡張機能
 ### 言語
 - Japanese Language Pack for Visual Studio Code
+### Python
+- Python (Pylance、Python Debuggerも同時にインストールされます)
+- autopep8
