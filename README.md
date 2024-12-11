@@ -1,5 +1,9 @@
 # インストール
 https://code.visualstudio.com/download
+## Ubuntu20
+https://it-dxblog.com/ubuntu-vscod/
+### VSCodeで日本語入力ができない
+https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 # ショートカット
 ![VSCode_______________________Windows-1](https://github.com/user-attachments/assets/31d8ebda-d3da-4f7b-bb60-ec6f626c8bbf)
 # クイックオープン
