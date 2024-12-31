@@ -16,6 +16,12 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 - https://goodsystem.jp/ai/vscodeextensionsusefulforpythondevelopmen.html
 ### 言語
 - Japanese Language Pack for Visual Studio Code
+### リモート環境
+- Remote Development：リモート環境
+- Dev Containers：コンテナ環境での開発をサポートしてくれる拡張機能
+- Remote SSH：SSH接続を行う拡張機能
+- WSL(Windows Subsystem for Linux)：Windows上のフォルダをWSLとして開くことができる拡張機能
+- Remote Tunnels：普段使っている PC を外部のデバイスから VSCode として利用できる拡張機能
 ### コード実行
 - Code Runner
 
