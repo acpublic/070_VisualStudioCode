@@ -56,3 +56,7 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 
 ### C
 - C/C++ Extension Pack（C/C++、C/C++ Themes、CMake、CMake Toolsが含まれる）
+
+### UML
+- PlantUML
+- Draw.io Integration
