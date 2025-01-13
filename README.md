@@ -54,6 +54,9 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 ### Flask
 - Flask Snippets
 
+### Docker
+- Flask
+
 ### C
 - C/C++ Extension Pack（C/C++、C/C++ Themes、CMake、CMake Toolsが含まれる）
 
