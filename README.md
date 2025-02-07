@@ -6,14 +6,17 @@ https://it-dxblog.com/ubuntu-vscod/
 https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 # ショートカット
 ![VSCode_______________________Windows-1](https://github.com/user-attachments/assets/31d8ebda-d3da-4f7b-bb60-ec6f626c8bbf)
+# ショートカット
+- Alt + Tab
+- Ctrl + 1～8
 # クイックオープン
 - Ctrl+P
 - クイックオープンが表示されてる状態で、? を入力するとヘルプが表示
 # コマンドパレット
 - Shift+Ctrl+P
-# 拡張機能
-- https://pythonsoba.tech/vscode-extension/
-- https://goodsystem.jp/ai/vscodeextensionsusefulforpythondevelopmen.html
+# コマンドパレット機能
+- diff
+
 ### 言語
 - Japanese Language Pack for Visual Studio Code
 ### リモート環境
