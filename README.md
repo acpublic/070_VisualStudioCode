@@ -25,6 +25,8 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 - Remote SSH：SSH接続を行う拡張機能
 - WSL(Windows Subsystem for Linux)：Windows上のフォルダをWSLとして開くことができる拡張機能
 - Remote Tunnels：普段使っている PC を外部のデバイスから VSCode として利用できる拡張機能
+### Git
+- GitLens
 ### コード実行
 - Code Runner
 
