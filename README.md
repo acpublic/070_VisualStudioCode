@@ -63,8 +63,23 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 - Docker
 - DevContainers
 
+### Java
+- Java Extension Pack
+- Language Support for Java
+- Debugger for Java
+- Java Test Runner
+- Maven Project Explorer
+- Java Dependency Viewer
+- Visual Studio IntelliCode
+- IntelliCode
+- IntelliCode API Usage Examples
+
 ### C
-- C/C++ Extension Pack（C/C++、C/C++ Themes、CMake、CMake Toolsが含まれる）
+- C/C++ Extension Pack
+- C/C++
+- C/C++ Themes
+- CMake
+- CMake Tools
 
 ### UML
 - PlantUML
