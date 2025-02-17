@@ -48,6 +48,11 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 ### ドキュメンテーション
 - autoDocstring
 
+### データベース
+- SQLite
+- SQLite Viewer
+- SQLTools
+
 ### Python
 - Python (Pylance、Python Debuggerも同時にインストールされます)
 - autopep8
