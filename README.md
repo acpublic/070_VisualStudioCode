@@ -19,6 +19,7 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 
 ### 言語
 - Japanese Language Pack for Visual Studio Code
+
 ### リモート環境
 - Remote Development：リモート環境
 - Dev Containers：コンテナ環境での開発をサポートしてくれる拡張機能
@@ -52,6 +53,10 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 - SQLite
 - SQLite Viewer
 - SQLTools
+
+# Javascript
+- ESLint
+- LiveServer
 
 ### Python
 - Python (Pylance、Python Debuggerも同時にインストールされます)
