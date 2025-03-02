@@ -94,3 +94,6 @@ https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 ### UML
 - PlantUML
 - Draw.io Integration
+
+### CSV
+- Rainbow CSV
