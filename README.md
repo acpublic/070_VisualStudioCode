@@ -5,7 +5,7 @@ https://it-dxblog.com/ubuntu-vscod/
 ### VSCodeで日本語入力ができない
 https://qiita.com/mimimimineko/items/f8573f55dd0d08cba38f
 # ショートカット
-![VSCode_______________________Windows-1](https://github.com/user-attachments/assets/31d8ebda-d3da-4f7b-bb60-ec6f626c8bbf)
+https://github.com/acpublic/070_VisualStudioCode/blob/main/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88.png
 # ショートカット
 - Alt + Tab
 - Ctrl + 1～8
